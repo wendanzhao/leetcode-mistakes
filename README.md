@@ -2,6 +2,8 @@
 
 ## Binary Search
 
+- [LC 69 - Sqrt(x)](<binary_search/lc_69_Sqrt(x).md>)
+
 ## DP
 
 ## Array
@@ -14,3 +16,11 @@
 ## Tree
 
 - [LC 2385 - Amount of Time for Binary Tree to Be Infected](tree/lc_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.md)
+
+## Graph
+
+- [LC 2093 - Minimum Cost To Reach City With Discounts](graph/lc_2093_Minimum_Cost_To_Reach_City_With_Discounts.md)
+
+## Greedy
+
+- [LC 45 - Jump Game II](greedy/lc_45_Jump_Game_II.md)
