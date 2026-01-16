@@ -20,7 +20,10 @@
 ## Graph
 
 - [LC 2093 - Minimum Cost To Reach City With Discounts](graph/lc_2093_Minimum_Cost_To_Reach_City_With_Discounts.md)
+- [LC 207 - Course Schedule](graph/lc_207_Course_Schedule.md)
 
 ## Greedy
 
 - [LC 45 - Jump Game II](greedy/lc_45_Jump_Game_II.md)
+- [LC 134 - Gas Station](greedy/lc_134_Gas_Station.md)
+- [LC 55 - Jump Game](greedy/lc_55_Jump_Game.md)
