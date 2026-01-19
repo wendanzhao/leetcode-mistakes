@@ -27,3 +27,12 @@
 - [LC 45 - Jump Game II](greedy/lc_45_Jump_Game_II.md)
 - [LC 134 - Gas Station](greedy/lc_134_Gas_Station.md)
 - [LC 55 - Jump Game](greedy/lc_55_Jump_Game.md)
+
+## Math
+
+- [LC 43 - Multiply Strings](math/lc_43_Multiply_Strings.md)
+
+## Stack
+
+- [LC 227 - Basic Calculator II](stack/lc_227_Basic_Calculator_II.md)
+- [LC 224 - Basic Calculator](stack/lc_224_Basic_Calculator.md)
