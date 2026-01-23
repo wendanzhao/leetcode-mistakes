@@ -31,9 +31,11 @@
 ## Math
 
 - [LC 43 - Multiply Strings](math/lc_43_Multiply_Strings.md)
+- [LC 400 - Nth Digit](math/lc_400_Nth_Digit.md)
 
 ## Stack
 
 - [LC 227 - Basic Calculator II](stack/lc_227_Basic_Calculator_II.md)
 - [LC 224 - Basic Calculator](stack/lc_224_Basic_Calculator.md)
 - [LC 316 - Remove Duplicate Letters](stack/lc_316_Remove_Duplicate_Letters.md)
+- [LC 678 - Valid Parenthesis String](stack/lc_678_Valid%20Parenthesis%20String.md)
