@@ -8,6 +8,10 @@
 
 ## Array
 
+## Sliding Window
+
+- [LC 2537 - Count the Number of Good Subarrays](sliding_window/lc_2537_Count%20the%20Number%20of%20Good%20Subarrays.md)
+
 ## Hash Table
 
 - [LC 621 - Task Scheduler](hash_table/lc_621_Task_Scheduler.md)
