@@ -3,8 +3,11 @@
 ## Binary Search
 
 - [LC 69 - Sqrt(x)](<binary_search/lc_69_Sqrt(x).md>)
+- [LC 528 - Random Pick with Weight](binary_search/lc_528_Radndom_Pick_With_Weight.md)
 
 ## DP
+
+- [LC 1139 - Largest 1Boarded Square](dynamic_programming/lc_1139_largest_1Boarded_Square.md)
 
 ## Array
 
@@ -43,3 +46,8 @@
 - [LC 224 - Basic Calculator](stack/lc_224_Basic_Calculator.md)
 - [LC 316 - Remove Duplicate Letters](stack/lc_316_Remove_Duplicate_Letters.md)
 - [LC 678 - Valid Parenthesis String](stack/lc_678_Valid%20Parenthesis%20String.md)
+- [LC 394 - Decode String](stack/lc_394_Decode_String.md)
+
+## Back Tracking
+
+- [LC 22 - Generate Parentheses](back_tracking/lc_22_Generate_Parentheses.md)
