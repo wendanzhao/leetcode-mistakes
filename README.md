@@ -19,6 +19,7 @@
 
 - [LC 621 - Task Scheduler](hash_table/lc_621_Task_Scheduler.md)
 - [LC 36 - Valid Sudoku](hash_table/lc_36_Valid_Sudoku.md)
+- [LC 128 - Longest Consecutive Sequence](hash_table/lc_128_Longest_Consecutive_Sequence.md)
 
 ## Tree
 
@@ -51,3 +52,7 @@
 ## Back Tracking
 
 - [LC 22 - Generate Parentheses](back_tracking/lc_22_Generate_Parentheses.md)
+
+## Priority Queue
+
+- [LC 2402 - Meeting Rooms III](priority_queue/lc_2402_Meeting_Rooms_III.md)
