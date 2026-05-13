@@ -56,3 +56,7 @@
 ## Priority Queue
 
 - [LC 2402 - Meeting Rooms III](priority_queue/lc_2402_Meeting_Rooms_III.md)
+
+## Trie
+
+- [LC 212 - Word Search II](trie/lc_212_Word_Search_II.md)
