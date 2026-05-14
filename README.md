@@ -52,6 +52,7 @@
 ## Back Tracking
 
 - [LC 22 - Generate Parentheses](back_tracking/lc_22_Generate_Parentheses.md)
+- [LC 47 - Permutations II](back_tracking/lc_47_Permutations_II.md)
 
 ## Priority Queue
 
