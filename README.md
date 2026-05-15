@@ -61,3 +61,7 @@
 ## Trie
 
 - [LC 212 - Word Search II](trie/lc_212_Word_Search_II.md)
+
+## Union Find
+
+- [LC 399 - Evaluate Division](union_find/lc_399_Evaluate_Division.md)
