@@ -4,6 +4,7 @@
 
 - [LC 69 - Sqrt(x)](<binary_search/lc_69_Sqrt(x).md>)
 - [LC 528 - Random Pick with Weight](binary_search/lc_528_Radndom_Pick_With_Weight.md)
+- [LC 33 - Search In Rotated Sorted Array](binary_search/lc_33_Search_In_Rotated_Sorted_Array.md)
 
 ## DP
 
@@ -48,6 +49,7 @@
 - [LC 316 - Remove Duplicate Letters](stack/lc_316_Remove_Duplicate_Letters.md)
 - [LC 678 - Valid Parenthesis String](stack/lc_678_Valid%20Parenthesis%20String.md)
 - [LC 394 - Decode String](stack/lc_394_Decode_String.md)
+- [LC 71 - Simplify Path](stack/lc_71_Simplify_Path.md)
 
 ## Back Tracking
 
