@@ -25,6 +25,7 @@
 ## Tree
 
 - [LC 2385 - Amount of Time for Binary Tree to Be Infected](tree/lc_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.md)
+- [LC 99 - Recover Binary Search Tree](tree/lc_99_Recover_Binary_Search_Tree.md)
 
 ## Graph
 
