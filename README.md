@@ -9,8 +9,11 @@
 ## DP
 
 - [LC 1139 - Largest 1Boarded Square](dynamic_programming/lc_1139_largest_1Boarded_Square.md)
+- [LC 139 - Word Break](dynamic_programming/lc_139_word_break.md)
 
 ## Array
+
+- [LC 581 - Shortest Unsorted Continues Subarray](array/lc_581_shortest_unsorted_continuous_subarray.md)
 
 ## Sliding Window
 
