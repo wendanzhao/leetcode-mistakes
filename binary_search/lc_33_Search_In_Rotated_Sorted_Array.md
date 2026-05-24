@@ -1,4 +1,4 @@
-# LeetCode 33 -
+# LeetCode 33 - Search In Rotated Sorted Array
 
 **类型**：binary search
 **难度**：Medium

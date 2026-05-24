@@ -5,6 +5,11 @@
 - [LC 69 - Sqrt(x)](<binary_search/lc_69_Sqrt(x).md>)
 - [LC 528 - Random Pick with Weight](binary_search/lc_528_Radndom_Pick_With_Weight.md)
 - [LC 33 - Search In Rotated Sorted Array](binary_search/lc_33_Search_In_Rotated_Sorted_Array.md)
+- [LC 1044 - Longest Duplicate Substring](binary_search/lc_1044_Longest_Duplicate_Substring.md)
+
+## Two Pointer
+
+- [LC 11 - Container With Most Water](two_pointer/lc_11_container_with_most_water.md)
 
 ## DP
 
