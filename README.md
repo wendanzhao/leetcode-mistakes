@@ -15,10 +15,12 @@
 
 - [LC 1139 - Largest 1Boarded Square](dynamic_programming/lc_1139_largest_1Boarded_Square.md)
 - [LC 139 - Word Break](dynamic_programming/lc_139_word_break.md)
+- [LC 1871 - Jump Game](dynamic_programming/lc_1871_Jump_Game_VII.md)
 
 ## Array
 
 - [LC 581 - Shortest Unsorted Continues Subarray](array/lc_581_shortest_unsorted_continuous_subarray.md)
+- [LC 974- Subarray Sums Divisible by K](array/lc_974_Subarray_Sums_Divisible_by_K.md)
 
 ## Sliding Window
 
@@ -34,6 +36,7 @@
 
 - [LC 2385 - Amount of Time for Binary Tree to Be Infected](tree/lc_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.md)
 - [LC 99 - Recover Binary Search Tree](tree/lc_99_Recover_Binary_Search_Tree.md)
+- [LC 113 - Path SumII](tree/lc_113_Path_SumII.md)
 
 ## Graph
 
