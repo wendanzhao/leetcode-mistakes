@@ -42,6 +42,7 @@
 
 - [LC 2093 - Minimum Cost To Reach City With Discounts](graph/lc_2093_Minimum_Cost_To_Reach_City_With_Discounts.md)
 - [LC 207 - Course Schedule](graph/lc_207_Course_Schedule.md)
+- [LC 886 - Possible Bipartition](graph/lc_886_Possible_Bipartition.md)
 
 ## Greedy
 
@@ -86,4 +87,4 @@
 
 ## String
 
--[LC 151 - Reverse Words in a String](string/lc_151_reverse_words_in_a_string.md)
+-[LC 151 - Reverse Words in a String](string/lc_151_reverse_words_in_a_string.md) -[LC 179 - Largest Number](string/lc_179_Largest_Number.md)
