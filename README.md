@@ -63,6 +63,7 @@
 - [LC 678 - Valid Parenthesis String](stack/lc_678_Valid%20Parenthesis%20String.md)
 - [LC 394 - Decode String](stack/lc_394_Decode_String.md)
 - [LC 71 - Simplify Path](stack/lc_71_Simplify_Path.md)
+- [LC 1249 - Minimum Remove to Make Valid Parentheses](stack/lc_1249_Minimum_Remove_to_Make_Valid_Parantheses.md)
 
 ## Back Tracking
 
