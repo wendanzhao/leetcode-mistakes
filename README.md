@@ -16,6 +16,7 @@
 - [LC 1139 - Largest 1Boarded Square](dynamic_programming/lc_1139_largest_1Boarded_Square.md)
 - [LC 139 - Word Break](dynamic_programming/lc_139_word_break.md)
 - [LC 1871 - Jump Game](dynamic_programming/lc_1871_Jump_Game_VII.md)
+- [LC 213](dynamic_programming/lc_213_House_RobberII.md)
 
 ## Array
 
@@ -77,6 +78,7 @@
 ## Trie
 
 - [LC 212 - Word Search II](trie/lc_212_Word_Search_II.md)
+- [LC 3093 - Longest Common Suffix Queries](trie/lc_3093_Longest_Common_Suffix_Queries.md)
 
 ## Union Find
 
