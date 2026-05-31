@@ -38,6 +38,7 @@
 - [LC 2385 - Amount of Time for Binary Tree to Be Infected](tree/lc_2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.md)
 - [LC 99 - Recover Binary Search Tree](tree/lc_99_Recover_Binary_Search_Tree.md)
 - [LC 113 - Path SumII](tree/lc_113_Path_SumII.md)
+- [LC 307 - Range Sum Query-Mutable](tree/lc_307_Range_Sum_Query-Mutable.md)
 
 ## Graph
 
