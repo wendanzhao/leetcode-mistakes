@@ -17,6 +17,7 @@
 - [LC 139 - Word Break](dynamic_programming/lc_139_word_break.md)
 - [LC 1871 - Jump Game](dynamic_programming/lc_1871_Jump_Game_VII.md)
 - [LC 213](dynamic_programming/lc_213_House_RobberII.md)
+- [LC 799](dynamic_programming/lc_799_Champagne_Tower.md)
 
 ## Array
 
