@@ -67,6 +67,7 @@
 - [LC 394 - Decode String](stack/lc_394_Decode_String.md)
 - [LC 71 - Simplify Path](stack/lc_71_Simplify_Path.md)
 - [LC 1249 - Minimum Remove to Make Valid Parentheses](stack/lc_1249_Minimum_Remove_to_Make_Valid_Parantheses.md)
+- [LC 907 - Sum of Subarray Minimums](stack/lc_907_Sum_of_Subarray_Minimums.md)
 
 ## Back Tracking
 
