@@ -16,8 +16,9 @@
 - [LC 1139 - Largest 1Boarded Square](dynamic_programming/lc_1139_largest_1Boarded_Square.md)
 - [LC 139 - Word Break](dynamic_programming/lc_139_word_break.md)
 - [LC 1871 - Jump Game](dynamic_programming/lc_1871_Jump_Game_VII.md)
-- [LC 213](dynamic_programming/lc_213_House_RobberII.md)
-- [LC 799](dynamic_programming/lc_799_Champagne_Tower.md)
+- [LC 213 - House RobberII](dynamic_programming/lc_213_House_RobberII.md)
+- [LC 799 - Champagne Tower](dynamic_programming/lc_799_Champagne_Tower.md)
+- [LC 1143 - Longest Common Subsequence](dynamic_programming/lc_1143_Longest_Common_Subsequence.md)
 
 ## Array
 
