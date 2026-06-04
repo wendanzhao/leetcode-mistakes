@@ -82,6 +82,7 @@
 
 - [LC 212 - Word Search II](trie/lc_212_Word_Search_II.md)
 - [LC 3093 - Longest Common Suffix Queries](trie/lc_3093_Longest_Common_Suffix_Queries.md)
+- [LC 211 - Design Add and Search Words Data Structure](trie/lc_211_Design_Add_and_Search_Words_Data_Structure.md)
 
 ## Union Find
 
