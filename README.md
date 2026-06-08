@@ -6,6 +6,7 @@
 - [LC 528 - Random Pick with Weight](binary_search/lc_528_Radndom_Pick_With_Weight.md)
 - [LC 33 - Search In Rotated Sorted Array](binary_search/lc_33_Search_In_Rotated_Sorted_Array.md)
 - [LC 1044 - Longest Duplicate Substring](binary_search/lc_1044_Longest_Duplicate_Substring.md)
+- [LC 1146 - Snapshot Array](binary_search/lc_1146_Snapshot_Array.md)
 
 ## Two Pointer
 
