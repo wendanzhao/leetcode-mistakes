@@ -25,7 +25,8 @@
 ## Array
 
 - [LC 581 - Shortest Unsorted Continues Subarray](array/lc_581_shortest_unsorted_continuous_subarray.md)
-- [LC 974- Subarray Sums Divisible by K](array/lc_974_Subarray_Sums_Divisible_by_K.md)
+- [LC 974 - Subarray Sums Divisible by K](array/lc_974_Subarray_Sums_Divisible_by_K.md)
+- [LC 53 - Maximum Subarray](array/lc_53_Maximum_Subarray.md)
 
 ## Sliding Window
 
@@ -98,4 +99,4 @@
 
 ## String
 
--[LC 151 - Reverse Words in a String](string/lc_151_reverse_words_in_a_string.md) -[LC 179 - Largest Number](string/lc_179_Largest_Number.md)
+-[LC 151 - Reverse Words in a String](string/lc_151_reverse_words_in_a_string.md) -[LC 179 - Largest Number](string/lc_179_Largest_Number.md) -[LC 14 - Longest Common Prefix](string/lc_14_Longest_Common_Prefix.md)
