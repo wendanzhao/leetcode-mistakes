@@ -55,6 +55,7 @@
 - [LC 45 - Jump Game II](greedy/lc_45_Jump_Game_II.md)
 - [LC 134 - Gas Station](greedy/lc_134_Gas_Station.md)
 - [LC 55 - Jump Game](greedy/lc_55_Jump_Game.md)
+- [LC 670 - Maximum Swap](greedy/lc_670_Maximum_Swap.md)
 
 ## Math
 
