@@ -21,6 +21,7 @@
 - [LC 213 - House RobberII](dynamic_programming/lc_213_House_RobberII.md)
 - [LC 799 - Champagne Tower](dynamic_programming/lc_799_Champagne_Tower.md)
 - [LC 1143 - Longest Common Subsequence](dynamic_programming/lc_1143_Longest_Common_Subsequence.md)
+- [LC 64 - Minimum Path Sum](dynamic_programming/lc_64_Minimum_Path_Sum.md)
 
 ## Array
 
@@ -78,6 +79,7 @@
 
 - [LC 22 - Generate Parentheses](back_tracking/lc_22_Generate_Parentheses.md)
 - [LC 47 - Permutations II](back_tracking/lc_47_Permutations_II.md)
+- [LC 93 - Restore IP Addresses](back_tracking/lc_93_Restore_IP_Addresses.md)
 
 ## Priority Queue
 
