@@ -7,6 +7,7 @@
 - [LC 33 - Search In Rotated Sorted Array](binary_search/lc_33_Search_In_Rotated_Sorted_Array.md)
 - [LC 1044 - Longest Duplicate Substring](binary_search/lc_1044_Longest_Duplicate_Substring.md)
 - [LC 1146 - Snapshot Array](binary_search/lc_1146_Snapshot_Array.md)
+- [LC 162 - Find Peak Element](binary_search/lc_162_Find_Peak_Element.md)
 
 ## Two Pointer
 
@@ -45,6 +46,7 @@
 - [LC 99 - Recover Binary Search Tree](tree/lc_99_Recover_Binary_Search_Tree.md)
 - [LC 113 - Path SumII](tree/lc_113_Path_SumII.md)
 - [LC 307 - Range Sum Query-Mutable](tree/lc_307_Range_Sum_Query-Mutable.md)
+- [LC 236 - Lowest Common Ancestor of a Binary Tree](tree/lc_236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
 
 ## Graph
 
