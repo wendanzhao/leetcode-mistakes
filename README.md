@@ -8,6 +8,7 @@
 - [LC 1044 - Longest Duplicate Substring](binary_search/lc_1044_Longest_Duplicate_Substring.md)
 - [LC 1146 - Snapshot Array](binary_search/lc_1146_Snapshot_Array.md)
 - [LC 162 - Find Peak Element](binary_search/lc_162_Find_Peak_Element.md)
+- [LC 1539 - Kth Missing Positive Number](binary_search/lc_1539_Kth_Missing_Positive_Number.md)
 
 ## Two Pointer
 
