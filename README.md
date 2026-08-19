@@ -66,6 +66,8 @@
 
 - [LC 43 - Multiply Strings](math/lc_43_Multiply_Strings.md)
 - [LC 400 - Nth Digit](math/lc_400_Nth_Digit.md)
+- [LC 48 - Rotate Image](math/lc_48_Rotate_Image.md)
+- [LC 50 - Pow(x, n)](<math/lc_50_Pow(x,%20n).md>)
 
 ## Stack
 
@@ -83,6 +85,7 @@
 - [LC 22 - Generate Parentheses](back_tracking/lc_22_Generate_Parentheses.md)
 - [LC 47 - Permutations II](back_tracking/lc_47_Permutations_II.md)
 - [LC 93 - Restore IP Addresses](back_tracking/lc_93_Restore_IP_Addresses.md)
+- [LC 17 - Letter Combinations of a Phone Number](back_tracking/lc_17_Letter_Combinations_of_a_Phone_Number.md)
 
 ## Priority Queue
 
