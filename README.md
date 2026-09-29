@@ -30,10 +30,12 @@
 - [LC 581 - Shortest Unsorted Continues Subarray](array/lc_581_shortest_unsorted_continuous_subarray.md)
 - [LC 974 - Subarray Sums Divisible by K](array/lc_974_Subarray_Sums_Divisible_by_K.md)
 - [LC 53 - Maximum Subarray](array/lc_53_Maximum_Subarray.md)
+- [LC 73 - Set Matrix Zeroes](array/lc_73_Set_Matrix_Zeroes.md)
 
 ## Sliding Window
 
 - [LC 2537 - Count the Number of Good Subarrays](sliding_window/lc_2537_Count%20the%20Number%20of%20Good%20Subarrays.md)
+- [LC 567 - Permutation in String](sliding_window/lc_567_Permutation_in_String.md)
 
 ## Hash Table
 
@@ -48,6 +50,7 @@
 - [LC 113 - Path SumII](tree/lc_113_Path_SumII.md)
 - [LC 307 - Range Sum Query-Mutable](tree/lc_307_Range_Sum_Query-Mutable.md)
 - [LC 236 - Lowest Common Ancestor of a Binary Tree](tree/lc_236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)
+- [LC 572 - Subtree of Another Tree](tree/lc_572_Subtree_of_Another_Tree.md)
 
 ## Graph
 
@@ -87,9 +90,14 @@
 - [LC 93 - Restore IP Addresses](back_tracking/lc_93_Restore_IP_Addresses.md)
 - [LC 17 - Letter Combinations of a Phone Number](back_tracking/lc_17_Letter_Combinations_of_a_Phone_Number.md)
 
+## DFS
+
+- [LC 79 - Word Search](dfs/lc_79_Word_Search.md)
+
 ## Priority Queue
 
 - [LC 2402 - Meeting Rooms III](priority_queue/lc_2402_Meeting_Rooms_III.md)
+- [LC 621 - Task Scheduler](priority_queue/lc_621_Task_Scheduler.md)
 
 ## Trie
 
