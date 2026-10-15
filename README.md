@@ -116,3 +116,7 @@
 ## String
 
 -[LC 151 - Reverse Words in a String](string/lc_151_reverse_words_in_a_string.md) -[LC 179 - Largest Number](string/lc_179_Largest_Number.md) -[LC 14 - Longest Common Prefix](string/lc_14_Longest_Common_Prefix.md)
+
+## Bit Manipulation
+
+-[LC 136 - Single Number](bit_manipulation/lc_136_Single_Number.md)
